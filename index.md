@@ -1,37 +1,182 @@
-## Welcome to GitHub Pages
+# Wordle Stats!
 
-You can use the [editor on GitHub](https://github.com/bminahan73/wordle-stats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Wed Feb 23 2022 19:01:50 GMT-0600 (Central Standard Time)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here we explore which letters are the most common in the Worlde word bank, and in which position.
 
-### Markdown
+## Word Total
+2309
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Total Appearances
 
-```markdown
-Syntax highlighted code block
+1. E: 10.65% (1230)
+2. A: 8.45% (975)
+3. R: 7.77% (897)
+4. O: 6.52% (753)
+5. T: 6.31% (729)
+6. L: 6.20% (716)
+7. I: 5.80% (670)
+8. S: 5.79% (668)
+9. N: 4.96% (573)
+10. C: 4.11% (475)
+11. U: 4.04% (466)
+12. Y: 3.67% (424)
+13. D: 3.40% (393)
+14. H: 3.35% (387)
+15. P: 3.16% (365)
+16. M: 2.74% (316)
+17. G: 2.69% (310)
+18. B: 2.43% (280)
+19. F: 1.98% (229)
+20. K: 1.82% (210)
+21. W: 1.68% (194)
+22. V: 1.32% (152)
+23. Z: 0.35% (40)
+24. X: 0.32% (37)
+25. Q: 0.25% (29)
+26. J: 0.23% (27)
 
-# Header 1
-## Header 2
-### Header 3
+## First Letter
 
-- Bulleted
-- List
+1. E 3.12% (72)
+2. A 6.06% (140)
+3. R 4.55% (105)
+4. O 1.78% (41)
+5. T 6.45% (149)
+6. L 3.77% (87)
+7. I 1.47% (34)
+8. S 15.81% (365)
+9. N 1.60% (37)
+10. C 8.58% (198)
+11. U 1.43% (33)
+12. Y 0.26% (6)
+13. D 4.81% (111)
+14. H 2.99% (69)
+15. P 6.11% (141)
+16. M 4.63% (107)
+17. G 4.98% (115)
+18. B 7.49% (173)
+19. F 5.85% (135)
+20. K 0.87% (20)
+21. W 3.55% (82)
+22. V 1.86% (43)
+23. Z 0.13% (3)
+24. X 0.00% (0)
+25. Q 1.00% (23)
+26. J 0.87% (20)
 
-1. Numbered
-2. List
+## Second Letter
 
-**Bold** and _Italic_ and `Code` text
+1. E: 10.44% (241)
+2. A: 13.17% (304)
+3. R: 11.56% (267)
+4. O: 12.08% (279)
+5. T: 3.33% (77)
+6. L: 8.66% (200)
+7. I: 8.71% (201)
+8. S: 0.69% (16)
+9. N: 3.77% (87)
+10. C: 1.73% (40)
+11. U: 8.01% (185)
+12. Y: 0.95% (22)
+13. D: 0.87% (20)
+14. H: 6.24% (144)
+15. P: 2.64% (61)
+16. M: 1.65% (38)
+17. G: 0.48% (11)
+18. B: 0.69% (16)
+19. F: 0.35% (8)
+20. K: 0.43% (10)
+21. W: 1.91% (44)
+22. V: 0.65% (15)
+23. Z: 0.09% (2)
+24. X: 0.61% (14)
+25. Q: 0.22% (5)
+26. J: 0.09% (2)
 
-[Link](url) and ![Image](src)
-```
+## Third Letter
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. E: 7.67% (177)
+2. A: 13.25% (306)
+3. R: 7.06% (163)
+4. O: 10.52% (243)
+5. T: 4.81% (111)
+6. L: 4.85% (112)
+7. I: 11.52% (266)
+8. S: 3.46% (80)
+9. N: 5.93% (137)
+10. C: 2.43% (56)
+11. U: 7.15% (165)
+12. Y: 1.26% (29)
+13. D: 3.25% (75)
+14. H: 0.39% (9)
+15. P: 2.47% (57)
+16. M: 2.64% (61)
+17. G: 2.90% (67)
+18. B: 2.43% (56)
+19. F: 1.08% (25)
+20. K: 0.52% (12)
+21. W: 1.13% (26)
+22. V: 2.12% (49)
+23. Z: 0.48% (11)
+24. X: 0.52% (12)
+25. Q: 0.04% (1)
+26. J: 0.13% (3)
 
-### Jekyll Themes
+## Fourth Letter
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bminahan73/wordle-stats/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. E: 13.77% (318)
+2. A: 7.02% (162)
+3. R: 6.50% (150)
+4. O: 5.72% (132)
+5. T: 6.02% (139)
+6. L: 7.02% (162)
+7. I: 6.84% (158)
+8. S: 7.41% (171)
+9. N: 7.88% (182)
+10. C: 6.50% (150)
+11. U: 3.55% (82)
+12. Y: 0.13% (3)
+13. D: 2.99% (69)
+14. H: 1.21% (28)
+15. P: 2.17% (50)
+16. M: 2.94% (68)
+17. G: 3.29% (76)
+18. B: 1.04% (24)
+19. F: 1.52% (35)
+20. K: 2.38% (55)
+21. W: 1.08% (25)
+22. V: 1.95% (45)
+23. Z: 0.87% (20)
+24. X: 0.13% (3)
+25. Q: 0.00% (0)
+26. J: 0.09% (2)
 
-### Support or Contact
+## Fifth Letter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. E: 18.28% (18.28%)
+2. A: 2.73% (2.73%)
+3. R: 9.18% (9.18%)
+4. O: 2.51% (2.51%)
+5. T: 10.96% (10.96%)
+6. L: 6.71% (6.71%)
+7. I: 0.48% (0.48%)
+8. S: 1.56% (1.56%)
+9. N: 5.63% (5.63%)
+10. C: 1.34% (1.34%)
+11. U: 0.04% (0.04%)
+12. Y: 15.76% (15.76%)
+13. D: 5.11% (5.11%)
+14. H: 5.93% (5.93%)
+15. P: 2.43% (2.43%)
+16. M: 1.82% (1.82%)
+17. G: 1.78% (1.78%)
+18. B: 0.48% (0.48%)
+19. F: 1.13% (1.13%)
+20. K: 4.89% (4.89%)
+21. W: 0.74% (0.74%)
+22. V: 0.00% (0.00%)
+23. Z: 0.17% (0.17%)
+24. X: 0.35% (0.35%)
+25. Q: 0.00% (0.00%)
+26. J: 0.00% (0.00%)
