@@ -28,7 +28,7 @@ letters.forEach((l, i) => {
     stats[i][FORMAT_PERCENT][TOTAL_INDEX] = Number(stats[i][RAW_PERCENT][TOTAL_INDEX]).toLocaleString(undefined, { style: 'percent', minimumFractionDigits: 2 })
 })
 console.log(`> ${Date()}\n\n## Word TOTAL_INDEX\n${words.length}`)
-printStats("TOTAL_INDEX Appearances", stats, TOTAL_INDEX)
+printStats("Total Appearances", stats, TOTAL_INDEX)
 printStats("First Letter", stats, 0)
 printStats("Second Letter", stats, 1)
 printStats("Third Letter", stats, 2)

@@ -1,9 +1,9 @@
-> Wed Feb 23 2022 20:19:52 GMT-0600 (Central Standard Time)
+> Wed Feb 23 2022 20:21:02 GMT-0600 (Central Standard Time)
 
 ## Word TOTAL_INDEX
 2309
 
-## TOTAL_INDEX Appearances
+## Total Appearances
 
 1. E: 10.65% (1230)
 2. A: 8.45% (975)
