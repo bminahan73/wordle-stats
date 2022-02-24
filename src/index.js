@@ -33,7 +33,7 @@ const THIRD_SORTED = stats.sort((a, b) => (a[RAW_COUNT][THIRD_LETTER] < b[RAW_CO
 const FOURTH_SORTED = stats.sort((a, b) => (a[RAW_COUNT][FOURTH_LETTER] < b[RAW_COUNT][FOURTH_LETTER]) ? 1 : -1)
 const FIFTH_SORTED = stats.sort((a, b) => (a[RAW_COUNT][FIFTH_LETTER] < b[RAW_COUNT][FIFTH_LETTER]) ? 1 : -1)
 const TOTAL_SORTED = stats.sort((a, b) => (a[RAW_COUNT][TOTAL] < b[RAW_COUNT][TOTAL]) ? 1 : -1)
-console.log(`# Wordle Stats!\n\n> ${Date()}\n\nHere we explore which letters are the most common in the Worlde word bank, and in which position.\n\n## Word Total\n${words.length}`)
+console.log(`> ${Date()}\n\n## Word Total\n${words.length}`)
 console.log("\n## Total Appearances\n")
 TOTAL_SORTED.forEach((stat, i) => {
     console.log(`${i + 1}. ${stat[LETTER].toUpperCase()}: ${stat[FORMAT_PERCENT][TOTAL]} (${stat[RAW_COUNT][TOTAL]})`)

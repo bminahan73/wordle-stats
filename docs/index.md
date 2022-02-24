@@ -1,8 +1,4 @@
-# Wordle Stats!
-
-> Wed Feb 23 2022 19:09:44 GMT-0600 (Central Standard Time)
-
-Here we explore which letters are the most common in the Worlde word bank, and in which position.
+> Wed Feb 23 2022 19:13:24 GMT-0600 (Central Standard Time)
 
 ## Word Total
 2309
