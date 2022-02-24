@@ -1,6 +1,6 @@
-> Wed Feb 23 2022 20:21:02 GMT-0600 (Central Standard Time)
+> Wed Feb 23 2022 20:26:36 GMT-0600 (Central Standard Time)
 
-## Word TOTAL_INDEX
+## Word Total
 2309
 
 ## Total Appearances
