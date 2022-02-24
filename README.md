@@ -9,7 +9,7 @@ on [NY Time's worlde](https://www.nytimes.com/games/wordle/index.html), go to De
 ## Generating
 
 ```shell
-node index.js > wordle_summary.md
+node src/index.js > docs/index.md
 ```
 
 ## Contributing

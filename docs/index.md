@@ -1,6 +1,6 @@
 # Wordle Stats!
 
-> Wed Feb 23 2022 19:01:50 GMT-0600 (Central Standard Time)
+> Wed Feb 23 2022 19:09:44 GMT-0600 (Central Standard Time)
 
 Here we explore which letters are the most common in the Worlde word bank, and in which position.
 
