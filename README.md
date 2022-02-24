@@ -1,6 +1,6 @@
 # WORDLE word and letter statistics
 
-This code can generate a stats summary markdown of the wordle word bank.
+This code can generate a stats summary markdown of the wordle word bank!
 
 ## Getting the words.json
 
